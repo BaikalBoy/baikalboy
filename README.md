@@ -1,9 +1,9 @@
 
-# ![Header]()
+# ![Header](https://github.com/BaikalBoy/baikalboy/blob/main/assets/qa%20head.JPG)
 
 ## On a long way to dream
 
-### ![Gif]()
+### ![Gif](https://github.com/BaikalBoy/baikalboy/blob/main/assets/giphy.gif)
 
 ### Testing Documentation
 
