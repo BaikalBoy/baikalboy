@@ -5,13 +5,12 @@
 
 ### ![Gif](https://github.com/BaikalBoy/baikalboy/blob/main/assets/giphy.gif)
 
-### Testing Documentation
+### My testing documentation examples
 
 * ![Checklists](https://github.com/BaikalBoy/baikalboy/blob/main/assets/Checklist.xlsx)
-* ![Test-Cases]()
-* ![Bug-Reports]()
-* ![SQL Queries]()
-* ![Postman Collections]()
+* ![Test-Cases](https://github.com/BaikalBoy/baikalboy/blob/main/assets/Test_cases.xlsx)
+* ![Bug-Reports](https://github.com/BaikalBoy/baikalboy/blob/main/assets/Bug_report.xlsx)
+
 
 ### Language and Tools
 
